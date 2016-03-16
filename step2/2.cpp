@@ -28,7 +28,6 @@ int main()
         if(match==0 && stop!="\n")
             f3<<stop<<" ";
     }
-
     return 0;
 }
 
