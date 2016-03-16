@@ -10,9 +10,9 @@ int main()
     typedef std::map<std::string, int>::iterator it_type;
 
     ifstream f1;
-    f1.open("../step2/pos_stop_removed.txt");
+    f1.open("../step2/stop_removed.txt");
     ofstream f2;
-    f2.open("pos_vocabulary.txt");
+    f2.open("vocabulary.txt");
     string s1,s2;
     vector <string> s;
     map <string,int> vocab;
