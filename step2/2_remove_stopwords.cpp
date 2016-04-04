@@ -10,9 +10,9 @@ int main()
     vector <string> s;
     while(getline(f1,stop))
         s.push_back(stop);
-    f2.open("pos_lower.txt");
+    f2.open("lower.txt");
     ofstream f3;
-    f3.open("pos_stop_removed.txt");
+    f3.open("stop_removed.txt");
     int match,length=s.size();
     while(getline(f2,stop,' '))
     {
