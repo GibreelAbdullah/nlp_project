@@ -23,11 +23,26 @@ for i in range(0,10):
 	    vocab_count = sum(1 for _ in f)
 	    #print (sum(1 for _ in f))
 
-	with pos_vocab as f:
-	    pos_vocab_count = sum(1 for _ in f)
+	#with pos_vocab as f:
+	 #   pos_vocab_count = sum(1 for _ in f)
 
-	with neg_vocab as f:
-	    neg_vocab_count = sum(1 for _ in f)
+#	with neg_vocab as f:
+#	    neg_vocab_count = sum(1 for _ in f)
+
+	with open(pos_vocabulary) as f:
+		for line in f:
+			word = line[16:]
+			word1 = int(word)
+			pos_vocab_count = pos_vocab_count + word1
+
+	with open(neg_vocabulary) as f:
+		for line in f:
+			word = line[16:]
+			word1 = int(word)
+			neg_vocab_count = neg_vocab_count + word1
+
+	#pos_vocab_count = pos_vocab_count - 270
+	#neg_vocab_count = neg_vocab_count - 270
 
 	print(vocab_count)
 	print(neg_vocab_count)

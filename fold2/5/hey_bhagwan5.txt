@@ -1,0 +1,5767 @@
+total vocab: 1472
+total pos word: 3007
+total neg word: 3222
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.3481196154500505
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -9.300330673558719
+pos_count: 13
+pos_count_probab: -2.5050530267664497
+total_pos_count: -11.80538370032517
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -14.979443508050196
+pos_count: 41
+pos_count_probab: -2.0279317720467875
+total_pos_count: -17.007375280096984
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -19.959586338205654
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -23.13364614593068
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -5.661844933149561
+neg_count: 10
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6301504001043488
+total_neg_count: -8.29199533325391
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -11.009295909077158
+neg_count: 22
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3098152492449806
+total_neg_count: -13.319111158322139
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -16.51353298886505
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -18.9809560914717
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -22.652499176734274
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -26.324042261996848
+pos: -23.43467614159466
+neg: -26.62507225766083
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.3481196154500505
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.522179423175075
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -12.474390481283745
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.125571543728434
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.776752606173122
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -22.473691159178486
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -25.647750966903512
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -2.4162705801592677
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.087813665421841
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -9.060386746348396
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -11.28477180026875
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -14.956314885531324
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -17.849706720410254
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -20.074091774330608
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -22.967483609209538
+pos: -25.948780962567493
+neg: -23.26851360487352
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.825240870169713
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.4764219326144
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -13.349451744675445
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -16.39857281579217
+pos_count: 13
+pos_count_probab: -2.5050530267664497
+total_pos_count: -18.903625842558622
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -21.952746913675348
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -10.537508001068058
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -13.510081081994613
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -16.48265416292117
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -19.199954738744417
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -22.269437832679028
+pos: -22.25377690933933
+neg: -22.57046782834301
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -6.223180878841751
+pos_count: 41
+pos_count_probab: -2.0279317720467875
+total_pos_count: -8.251112650888539
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -11.124142462949582
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -14.298202270674608
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -16.949383333119297
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -20.123443140844323
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -2.592361839214949
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -5.661844933149561
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -8.12926803575621
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -11.800811121018784
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -15.472354206281357
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.14389729154393
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -22.21338038547854
+pos: -20.424473136508304
+neg: -22.514410381142522
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.825240870169713
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.999300677894738
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -13.173360485619764
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -15.084178858570208
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -18.03638991667888
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -20.909419728739923
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -22.820238101690368
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -26.471419164135057
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -3.0694830939346116
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.741026179197185
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -10.412569264459759
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -13.60699109500267
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.278534180265243
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -19.99583475608849
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -23.190256586631403
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -25.958709684902033
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -28.67601026072528
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -32.347553345987855
+pos: -26.772449159799038
+neg: -32.648583341651836
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -7.302362124889376
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -10.3514831960061
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -13.400604267122826
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -17.051785329567515
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -20.702966392012204
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -23.509049414442636
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -26.25714048989538
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.90832155234007
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -33.559502614784755
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -36.36558563721518
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -40.01676669965987
+pos_count: 23
+pos_count_probab: -2.270969820733082
+total_pos_count: -42.28773652039295
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -45.93891758283763
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -47.90885740790673
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -51.560038470351415
+pos_count: 24
+pos_count_probab: -2.2532410537726504
+total_pos_count: -53.81327952412406
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -56.686309336185104
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -59.73543040730183
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -62.68764146541049
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -65.73676253652722
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -7.343086170525147
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -10.169531215773464
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -13.239014309708075
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.91055739497065
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -20.582100480233223
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.253643565495796
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -27.448065396038707
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -31.11960848130128
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.791151566563855
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -38.462694651826425
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -42.134237737088995
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -45.20372083102361
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -48.87526391628619
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -50.597416994903845
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -54.26896008016642
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -56.68523066032569
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -59.65780374125225
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -62.48424878650057
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -65.55373188043518
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -68.52630496136173
+pos: -66.0377925321912
+neg: -68.82733495702571
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -3.0491210711167254
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.223180878841751
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.874361941286438
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -12.923483012403164
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.574664074847853
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -19.74872388257288
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -23.399904945017568
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -26.449026016134294
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -30.100207078578983
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -33.75138814102367
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -36.703599199132334
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -39.75272027024906
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -42.92678007797408
+pos_count: 15
+pos_count_probab: -2.447061079788763
+total_pos_count: -45.37384115776284
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -48.54790096548786
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -7.343086170525147
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -11.014629255787721
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -13.73192983161097
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.403472916873543
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -20.472956010808154
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.144499096070728
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.8160421813333
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -31.487585266595875
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -35.15912835185845
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -38.830671437121026
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -42.502214522383596
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -46.173757607646166
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -49.14633068857272
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -52.81787377383529
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -56.48941685909786
+pos: -48.848930961151844
+neg: -56.79044685476184
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -6.223180878841751
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.874361941286438
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -13.048421749011464
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -16.09754282012819
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -19.271602627853216
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -22.922783690297905
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -25.874994748406575
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -28.74802456046762
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -31.922084368192646
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -35.09614417591767
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -38.74732523836236
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -41.699536296471024
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -44.87359610419605
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -48.04765591192107
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.388843661085823
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -9.361416742012377
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.03295982727495
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -15.92635166215388
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.597894747416454
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -22.792316577959365
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -25.76488965888592
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -28.83437275282053
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -31.60282585109116
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -35.27436893635374
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -38.24694201728029
+neg_count: 22
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3098152492449806
+total_neg_count: -40.55675726652527
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -44.22830035178784
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -46.452685405708195
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -49.425258486634746
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -52.61968031717766
+pos: -48.34868590758505
+neg: -52.92071031284164
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -5.904422116217338
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.555603178662025
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -11.46642155161247
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -14.272504574042902
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -17.446564381767928
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -20.620624189492954
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.271805251937643
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -27.44586505966267
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -2.8264450452483167
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -5.799018126174872
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.470561211437445
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -12.187861787260694
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -15.01430683250901
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -18.08378992644362
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.278211756986533
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.949754842249106
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -28.62129792751168
+pos: -27.74689505532665
+neg: -28.92232792317566
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -6.524210874505732
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.698270682230756
+pos_count: 23
+pos_count_probab: -2.270969820733082
+total_pos_count: -11.969240502963839
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -14.842270315024884
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -17.89139138614161
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.065451193866636
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -6.439996183533204
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -9.032358022748152
+neg_count: 31
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.166393106942668
+total_neg_count: -11.19875112969082
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -14.26823422362543
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -17.03668732189606
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -19.452957902055328
+neg_count: 25
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.256569737291756
+total_neg_count: -21.709527639347083
+pos: -21.366481189530617
+neg: -22.010557635011065
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.3481196154500505
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.522179423175075
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -12.474390481283745
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.125571543728434
+pos_count: 19
+pos_count_probab: -2.3501510667807066
+total_pos_count: -18.47572261050914
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.649782418234167
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -24.601993476342837
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -27.077083279731845
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -29.728264342176534
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -32.90232414990156
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -36.07638395762658
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -39.72756502007127
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -43.37874608251595
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -46.251775894576994
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -49.42583570230202
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -53.0770167647467
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -55.82510784019944
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -59.47628890264413
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -62.428499960752795
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -65.17659103620554
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -68.22571210732227
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -71.17792316543094
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -74.35198297315597
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -6.644116166189129
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -10.315659251451702
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -13.385142345386313
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.056685430648887
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -19.385805835089254
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -22.455288929023865
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -25.348680763902795
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -28.117133862173425
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -30.834434437996673
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -33.163554842437044
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -36.1361279233636
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -39.33054975390652
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -43.002092839169094
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -45.974665920095646
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -49.646209005358216
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -52.472654050606536
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -56.144197135869106
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -59.33861896641202
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -63.0101620516746
+neg_count: 13
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.5254150495843355
+total_neg_count: -65.53557710125894
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -68.72999893180184
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -71.44729950762509
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -74.5167826015597
+pos: -74.65301296881995
+neg: -74.81781259722368
+pos_count: 31
+pos_count_probab: -2.146031084124782
+total_pos_count: -2.146031084124782
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -5.7972121465694695
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.971271954294494
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.622453016739183
+pos_count: 17
+pos_count_probab: -2.395908557341382
+total_pos_count: -15.018361574080565
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -18.06748264519729
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -21.01969370330596
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -24.193753511030987
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -27.242874582147714
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -30.41693438987274
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.060386746348396
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.73192983161097
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -15.956314885531324
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.627857970793897
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.29940105605647
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -26.493822886599382
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -30.165365971861956
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -32.882666547685204
+pos: -30.71796438553672
+neg: -33.183696543349186
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.126270865833694
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -8.999300677894738
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -12.173360485619764
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -14.648450289008771
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -16.868267587294472
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -19.741297399355517
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -22.216387202744524
+pos_count: 17
+pos_count_probab: -2.395908557341382
+total_pos_count: -24.612295760085907
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -28.263476822530595
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.914657884975284
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -34.662748960428026
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -38.31393002287271
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -41.965111085317396
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -45.61629214776208
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -48.48932195982312
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -51.44153301793179
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -2.7684530982706304
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.439996183533204
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -10.111539268795777
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -13.084112349722332
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -15.852565447992962
+neg_count: 34
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.127475040912298
+total_neg_count: -17.98004048890526
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -21.651583574167834
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -24.62415665509439
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -27.216518494309337
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -30.88806157957191
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.55960466483448
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -37.53217774576103
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -41.2037208310236
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -44.87526391628617
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -48.54680700154874
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -51.519380082475294
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -54.71380191301821
+pos: -51.74256301359577
+neg: -55.01483190868219
+pos_count: 12
+pos_count_probab: -2.537237710137851
+total_pos_count: -2.537237710137851
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -5.711297517862876
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.8853573255879
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -10.796175698538345
+pos_count: 15
+pos_count_probab: -2.447061079788763
+total_pos_count: -13.243236778327109
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -15.718326581716116
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -18.193416385105124
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -20.94150746055787
+neg_count: 18
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.392789484309745
+total_neg_count: -2.392789484309745
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.0643325695723185
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.25875440011523
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -11.976054975938478
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -14.693355551761726
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -17.66592863268828
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -20.43438173095891
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.105924816221485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -27.300346646764396
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -30.494768477307307
+pos: -21.24253745622185
+neg: -30.79579847297129
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -2.651181062444688
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -5.825240870169713
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.999300677894738
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.650481740339426
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -15.824541548064452
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -18.99860135578948
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -22.172661163514505
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.388843661085823
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.583265491628735
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.254808576891309
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.926351662153884
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -19.995834756088495
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -22.324955160528862
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -25.297528241455417
+neg_count: 13
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.5254150495843355
+total_neg_count: -27.822943291039753
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -30.892426384974364
+pos: -22.473691159178486
+neg: -31.193456380638345
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -6.223180878841751
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.874361941286438
+pos_count: 23
+pos_count_probab: -2.270969820733082
+total_pos_count: -12.14533176201952
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -14.115271587088621
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -17.289331394813647
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -20.940512457258336
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.591693519703025
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -28.242874582147714
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.894055644592402
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -35.54523670703709
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -38.020326510426095
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -41.67150757287078
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -3.0694830939346116
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -6.138966187869223
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.810509273131796
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -12.879992367066407
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -14.602145445684068
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -17.194507284899018
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -20.38892911544193
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -23.45841220937654
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.129955294639114
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -30.324377125182025
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -33.51879895572494
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -37.19034204098752
+pos: -41.97253756853476
+neg: -37.4913720366515
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -6.0013321292253945
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -9.050453200342119
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -11.923483012403164
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -15.09754282012819
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -18.271602627853216
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.445662435578242
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -2.8264450452483167
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -5.543745621071565
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -8.370190666319882
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -11.138643764590512
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -14.111216845517067
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.78275993077964
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -20.97718176132255
+neg_count: 25
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.256569737291756
+total_neg_count: -23.233751498614307
+pos: -21.746692431242224
+neg: -23.53478149427829
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -3.0491210711167254
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.700302133561413
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -9.652513191670081
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -12.349451744675445
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -15.301662802784115
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -18.47572261050914
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -21.223813685961886
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -24.272934757078612
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -27.9241158195233
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -30.973236890640027
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -33.624417953084716
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -36.79847776080974
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.935448009740096
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -12.761893054988413
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.433436140250986
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -19.326827975129916
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -22.521249805672827
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -26.1927928909354
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -29.387214721478312
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -32.15566781974894
+neg_count: 9
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6715430852625737
+total_neg_count: -34.82721090501151
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -38.02163273555443
+pos: -37.09950775647372
+neg: -38.32266273121841
+pos_count: 31
+pos_count_probab: -2.146031084124782
+total_pos_count: -2.146031084124782
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -5.098242142233451
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -8.749423204678138
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.400604267122826
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -15.352815325231497
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.003996387676185
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -22.17805619540121
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -25.8292372578459
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -29.003297065570926
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -32.05241813668765
+pos_count: 17
+pos_count_probab: -2.395908557341382
+total_pos_count: -34.44832669402903
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -6.263904924477523
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.458326755020435
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.129869840283009
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -15.956314885531325
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.627857970793897
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.29940105605647
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -26.970944141319045
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -29.9435172222456
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -32.41094032485225
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -35.48042341878686
+neg_count: 22
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3098152492449806
+total_neg_count: -37.79023866803185
+pos: -34.74935668969301
+neg: -38.09126866369583
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -2.873029812061044
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -5.825240870169713
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.999300677894738
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -11.747391753347483
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -14.699602811456153
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -17.74872388257288
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -20.797844953689605
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -23.97190476141463
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -27.021025832531357
+pos_count: 29
+pos_count_probab: -2.1740598077250253
+total_pos_count: -29.195085640256384
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -32.24420671137311
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -35.895387773817795
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -38.94450884493452
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -40.914448670003615
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -44.5656297324483
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -47.73968954017332
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -6.087813665421842
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.157296759356454
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.351718589899365
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.546140420442276
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -18.439532255321208
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -21.412105336247762
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -24.384678417174317
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -27.57910024771723
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -30.296400823540477
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -33.36588391747509
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -36.25927575235402
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -37.98142883097168
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -41.050911924906295
+neg_count: 25
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.256569737291756
+total_neg_count: -43.30748166219805
+pos: -48.040719535837304
+neg: -43.60851165786203
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.126270865833694
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.777451928278381
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -13.42863299072307
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -16.602692798448096
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -19.47572261050914
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -22.281805632939573
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -25.087888655370005
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -28.040099713478675
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.691280775923364
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -35.34246183836805
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -38.99364290081274
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -41.799725923243166
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -44.27481572663217
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -47.925996789076855
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -51.57717785152154
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -55.228358913966225
+neg_count: 30
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.180181391428301
+total_neg_count: -2.180181391428301
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -5.3746032219712125
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -8.444086315905825
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -11.638508146448736
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -14.707991240383347
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -17.902413070926258
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.09683490146917
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -23.8652879997398
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.536831085002373
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -31.208374170264946
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.879917255527516
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -37.77330909040645
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -41.44485217566903
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -44.63927400621194
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -48.31081709147452
+pos: -55.52938890963021
+neg: -48.6118470871385
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 16
+pos_count_probab: -2.4207321410664138
+total_pos_count: -5.372943199175083
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -8.325154257283753
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -11.976335319728442
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -14.928546377837112
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -17.801576189898157
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.452757252342845
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -25.103938314787534
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -28.056149372896204
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -31.10527044401293
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -34.27933025173795
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -37.453390059462976
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -40.40560111757164
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -44.05678218001633
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -46.862865202446756
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -50.51404626489144
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -54.165227327336126
+neg_count: 30
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.180181391428301
+total_neg_count: -2.180181391428301
+neg_count: 18
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.392789484309745
+total_neg_count: -4.572970875738045
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -7.7673927062809565
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.961814536823868
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -13.730267635094497
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -16.447568210917748
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -19.64199004146066
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.313533126723232
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -26.507954957266143
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -29.702376787809055
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -33.37391987307163
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -36.34649295399818
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -39.540914784541094
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -42.73533661508401
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -45.56178166033233
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -48.756203490875244
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -52.42774657613782
+pos: -54.46625732300011
+neg: -52.7287765718018
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -6.399272137897432
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -8.971271954294496
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.622453016739183
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.27363407918387
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -19.447693886908898
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -22.496814958025624
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -26.147996020470313
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.799177082915
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -32.973236890640024
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -36.02235796175675
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -3.0694830939346116
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -6.042056174861166
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -9.014629255787721
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -12.686172341050295
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.880594171593206
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -19.075016002136117
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -22.269437832679028
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -25.9409809179416
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -29.612524003204175
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -32.806945833747086
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -36.00136766429
+pos: -36.32338795742073
+neg: -36.30239765995398
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -5.524210874505732
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.175391936950419
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.826572999395108
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -15.574664074847853
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.22584513729254
+pos_count: 16
+pos_count_probab: -2.4207321410664138
+total_pos_count: -21.646577278358954
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -24.51960709042
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -28.170788152864688
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -31.219909223981414
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -34.26903029509814
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -37.920211357542826
+neg_count: 9
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6715430852625737
+total_neg_count: -2.6715430852625737
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -5.644116166189129
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.315659251451702
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -12.987202336714276
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -16.181624167257187
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.85316725251976
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -23.04758908306267
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -26.117072176997283
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -29.186555270931894
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -31.955008369202524
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -35.6265514544651
+pos: -38.22124135320681
+neg: -35.92758145012908
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -5.746059624122088
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.397240686566775
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -12.571300494291801
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.22248155673649
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -19.028564579166922
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -21.834647601597354
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -24.5827386770501
+pos_count: 19
+pos_count_probab: -2.3501510667807066
+total_pos_count: -26.932889743830806
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -30.106949551555832
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -33.75813061400052
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -37.409311676445206
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -6.644116166189129
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -9.537508001068058
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -12.510081081994613
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.704502912537524
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.376045997800098
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -22.57046782834301
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -25.76488965888592
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -28.95931148942883
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -31.2884318938692
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.95997497913177
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -38.63151806439434
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -41.399971162664976
+pos: -37.71034167210919
+neg: -41.70100115832896
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.825240870169713
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.4764219326144
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.127602995059089
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -17.301662802784115
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -20.17469261484516
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -23.82587367728985
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -26.477054739734537
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -29.651114547459564
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -32.700235618576286
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -35.87429542630131
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.060386746348396
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.73192983161097
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -16.80141292554558
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -19.627857970793897
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -22.396311069064527
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -25.113611644887776
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -28.183094738822387
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -31.377516569365298
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -34.44699966329991
+pos: -36.17532542196529
+neg: -34.748029658963894
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -3.0491210711167254
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -5.7972121465694695
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.971271954294494
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -12.14533176201952
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -15.09754282012819
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -18.146663891244916
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -20.621753694633924
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -23.193753511030987
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -26.367813318756014
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -29.24084313081706
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -32.19305418892573
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -35.36711399665075
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -38.541173804375774
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -2.467423102606649
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.138966187869222
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.208449281803833
+neg_count: 9
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6715430852625737
+total_neg_count: -11.879992367066407
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -15.55153545232898
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -18.745957282871892
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -22.417500368134466
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -24.833770948293733
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -27.602224046564363
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -30.671707140498974
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.34325022576155
+neg_count: 9
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6715430852625737
+total_neg_count: -37.01479331102412
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -39.98736639195067
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -43.18178822249359
+pos: -38.842203800039755
+neg: -43.48281821815757
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -2.651181062444688
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -5.825240870169713
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -8.874361941286438
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -11.826572999395108
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -14.699602811456153
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -17.87366261918118
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.047722426906205
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -24.22178223463123
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -27.395842042356257
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -6.166994911469466
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -8.884295487292714
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -12.555838572555288
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -15.6253216664899
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -18.597894747416454
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.792316577959365
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -24.121436982399732
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -26.345822036320087
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -30.01736512158266
+pos: -27.69687203802024
+neg: -30.31839511724664
+pos_count: 10
+pos_count_probab: -2.609788377286463
+total_pos_count: -2.609788377286463
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -5.561999435395132
+pos_count: 29
+pos_count_probab: -2.1740598077250253
+total_pos_count: -7.736059243120157
+pos_count: 13
+pos_count_probab: -2.5050530267664497
+total_pos_count: -10.241112269886607
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -13.415172077611633
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -16.288201889672678
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -18.25814171474178
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.909322777186468
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -25.083382584911494
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -27.053322409980595
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -29.80141348543334
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -2.8933918348789303
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.087813665421842
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.282235495964754
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.476657326507665
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.671079157050576
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -18.74056225098519
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.9349840815281
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -24.82837591640703
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -27.59682901467766
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -30.79125084522057
+pos: -30.10244348109732
+neg: -31.092280840884552
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 16
+pos_count_probab: -2.4207321410664138
+total_pos_count: -5.372943199175083
+pos_count: 13
+pos_count_probab: -2.5050530267664497
+total_pos_count: -7.877996225941533
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -11.52917728838622
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -14.277268363838964
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -17.928449426283652
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.57963048872834
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -24.753690296453367
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -27.927750104178394
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.578931166623082
+neg_count: 30
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.180181391428301
+total_neg_count: -2.180181391428301
+neg_count: 18
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.392789484309745
+total_neg_count: -4.572970875738045
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -7.7673927062809565
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -11.43893579154353
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -14.633357622086441
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -17.605930703012994
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -20.800352533555905
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -23.517653109379154
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.189196194641728
+pos: -31.879961162287064
+neg: -27.49022619030571
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -2.651181062444688
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.302362124889376
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -9.108445147319806
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -12.157566218436532
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -14.068384591386977
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -16.81647566683972
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -19.865596737956448
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -6.020866875791228
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -8.993439956717783
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -11.710740532541031
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -15.382283617803605
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -18.099584193626853
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -20.323969247547208
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.99551233280978
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -27.064995426744392
+pos: -20.16662673362043
+neg: -27.366025422408374
+pos_count: 10
+pos_count_probab: -2.609788377286463
+total_pos_count: -2.609788377286463
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -5.783848185011488
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.957907992736512
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -11.705999068189257
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -14.880058875914283
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -17.832269934022953
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.00632974174798
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -24.180389549473006
+pos_count: 31
+pos_count_probab: -2.146031084124782
+total_pos_count: -26.326420633597788
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.977601696042477
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -2.8933918348789303
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -5.865964915805485
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -8.282235495964752
+neg_count: 36
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.1033413611955787
+total_neg_count: -10.38557685716033
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -13.579998687703242
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -16.04742179030989
+neg_count: 27
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.2243850539203547
+total_neg_count: -18.271806844230245
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -21.2443799251568
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.915923010419373
+neg_count: 9
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6715430852625737
+total_neg_count: -27.587466095681947
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -30.560039176608502
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.231582261871075
+pos: -30.278631691706458
+neg: -34.53261225753506
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -2.806083022430431
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.457264084875119
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.108445147319806
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -13.759626209764495
+pos_count: 19
+pos_count_probab: -2.3501510667807066
+total_pos_count: -16.109777276545202
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.76095833898989
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -23.41213940143458
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -27.06332046387927
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -30.237380271604295
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -33.41144007932932
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -2.972573080926555
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.644116166189129
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -10.315659251451702
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.987202336714276
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -16.316322741154643
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.987865826417217
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.65940891167979
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.330951996942364
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -30.400435090876975
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -33.373008171803534
+pos: -33.7124700749933
+neg: -33.674038167467515
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.3481196154500505
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.522179423175075
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -12.474390481283745
+pos_count: 16
+pos_count_probab: -2.4207321410664138
+total_pos_count: -14.895122622350158
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -18.069182430075184
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.24324223780021
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.8944233002449
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -28.068483107969925
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.719664170414614
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -34.525747192845046
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -37.69980700057007
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -40.17489680395907
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -43.348956611684095
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -46.52301641940912
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -50.1741974818538
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -53.348257289578825
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -56.09634836503157
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -59.27040817275659
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -62.44446798048161
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -65.31749779254265
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -68.0655888679954
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -71.11470993911213
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -74.0669209972208
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -77.7181020596655
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -79.6880418847346
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -82.86210169245963
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -2.972573080926555
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.644116166189129
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -9.616689247115684
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -12.510081081994613
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -15.482654162921168
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -18.309099208169485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.503521038712396
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -25.17506412397497
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -28.846607209237543
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -32.041029039780454
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -35.712572125043025
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -38.685145205969576
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -41.511590251217896
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -43.92786083137717
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -47.599403916639744
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -51.270947001902314
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -54.942490087164884
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -58.1369119177078
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -61.331333748250714
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -65.00287683351328
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -67.59523867272823
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -70.56781175365478
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -73.76223358419769
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -76.47953416002093
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -79.54901725395554
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -83.22056033921811
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -84.94271341783578
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -88.13713524837868
+pos: -83.16313168812361
+neg: -88.43816524404266
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.825240870169713
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.4764219326144
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.127602995059089
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -17.778784057503778
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.429965119948466
+pos_count: 29
+pos_count_probab: -2.1740598077250253
+total_pos_count: -23.604024927673493
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -26.77808473539852
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -3.0694830939346116
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.741026179197185
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -10.412569264459759
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -14.084112349722332
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.755655434984906
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -20.72822851591146
+neg_count: 36
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.1033413611955787
+total_neg_count: -22.83156987710704
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -26.02599170764995
+pos: -27.0791147310625
+neg: -26.32702170331393
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -6.603392120553357
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.254573182998044
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -13.905754245442733
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -17.55693530788742
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.20811637033211
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.8592974327768
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -28.510478495221488
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -30.73029579350719
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -33.90435560123221
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -36.953476672348934
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.865964915805485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.060386746348396
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -13.254808576891307
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.92635166215388
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -20.597894747416454
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.269437832679028
+neg_count: 34
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.127475040912298
+total_neg_count: -26.396912873591326
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -30.0684559588539
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -32.78575653467715
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -36.45729961993972
+pos: -37.254506668012915
+neg: -36.7583296156037
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -6.0013321292253945
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.175391936950419
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -11.14533176201952
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -13.056150134969965
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.707331197414653
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -19.659542255523323
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -22.83360206324835
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -26.007661870973376
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.658842933418065
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -33.31002399586275
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -36.262235053971416
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -39.9134161164161
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -2.7684530982706304
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -5.741026179197185
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -8.935448009740096
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -10.657601088357756
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -13.374901664181005
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.04644474944358
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -20.019017830370135
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -23.213439660913046
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -26.407861491455957
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -30.07940457671853
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -33.7509476619811
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -36.945369492524016
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -40.61691257778659
+pos: -40.21444611208008
+neg: -40.917942573450574
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -7.302362124889376
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.953543187334063
+pos_count: 12
+pos_count_probab: -2.537237710137851
+total_pos_count: -13.490780897471915
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -16.66484070519694
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -19.713961776313667
+pos_count: 23
+pos_count_probab: -2.270969820733082
+total_pos_count: -21.98493159704675
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -25.636112659491438
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -28.509142471552483
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -32.16032353399717
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -34.13026335906627
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -37.781444421510955
+pos_count: 54
+pos_count_probab: -1.910818372950444
+total_pos_count: -39.6922627944614
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -42.74138386557812
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.388843661085823
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -9.282235495964754
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -12.254808576891309
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -15.32429167082592
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -18.393774764760533
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.588196595303444
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -24.305497171126692
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.977040256389266
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -29.699193335006928
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -32.89361516554984
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -35.61091574137309
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -38.680398835307706
+pos: -43.0424138612421
+neg: -38.98142883097169
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.825240870169713
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.4764219326144
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.127602995059089
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -2.8933918348789303
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -5.610692410702179
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.282235495964752
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -12.953778581227326
+pos: -14.42863299072307
+neg: -13.254808576891307
+pos_count: 13
+pos_count_probab: -2.5050530267664497
+total_pos_count: -2.5050530267664497
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -5.457264084875119
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.108445147319806
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -12.157566218436532
+pos_count: 16
+pos_count_probab: -2.4207321410664138
+total_pos_count: -14.578298359502945
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -17.62741943061967
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.27860049306436
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -23.24854031813346
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -25.996631393586206
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.647812456030895
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -32.82187226375592
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -35.995932071480944
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -39.64711313392563
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -42.82117294165065
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -45.995232749375674
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -49.64641381182036
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -52.12150361520936
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -55.77268467765405
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -59.423865740098734
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 9
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6715430852625737
+total_neg_count: -5.865964915805485
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.537508001068058
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.73192983161097
+neg_count: 31
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.166393106942668
+total_neg_count: -14.898322938553637
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -18.56986602381621
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -22.241409109078784
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -23.963562187696446
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -27.157984018239357
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -30.22746711217397
+neg_count: 10
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6301504001043488
+total_neg_count: -32.85761751227832
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -35.62607061054895
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -39.29761369581152
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -42.27018677673807
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -45.33966987067269
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -49.011212955935264
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -51.427483536094535
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -54.62190536663745
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -58.29344845190002
+pos: -59.724895735762715
+neg: -58.594478447564
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -5.870998360730388
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -8.744028172791431
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.39520923523612
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.04639029768081
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.697571360125497
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -23.348752422570186
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -26.999933485014875
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -30.651114547459564
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -33.700235618576286
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -36.74935668969301
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -40.400537752137694
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -44.05171881458238
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -46.52680861797138
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -2.8933918348789303
+neg_count: 34
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.127475040912298
+total_neg_count: -5.020866875791228
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -7.789319974061858
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.983741804604769
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -14.17816363514768
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.849706720410254
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.044128550953165
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.71567163621574
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -27.78515473015035
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -30.97957656069326
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -34.049059654627875
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -37.11854274856249
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -40.312964579105405
+pos: -46.827838613635365
+neg: -40.613994574769386
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -3.0491210711167254
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -6.098242142233451
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -8.318059440519152
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -11.066150515971895
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -13.81424159142464
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -16.62032461385507
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -19.09541441724408
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -22.144535488360805
+pos_count: 31
+pos_count_probab: -2.146031084124782
+total_pos_count: -24.290566572485588
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -27.941747634930277
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.592928697374965
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -34.34101977282771
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -37.51507958055273
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -2.467423102606649
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.138966187869222
+neg_count: 34
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.127475040912298
+total_neg_count: -8.26644122878152
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -11.937984314044094
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.132406144587005
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -18.326827975129916
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -21.095281073400546
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.76682415866312
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -27.739397239589675
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -31.41094032485225
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -34.48042341878686
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -38.15196650404944
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -41.346388334592355
+pos: -37.81610957621671
+neg: -41.647418330256336
+pos_count: 12
+pos_count_probab: -2.537237710137851
+total_pos_count: -2.537237710137851
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.188418772582539
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.362478580307563
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -13.013659642752252
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.66484070519694
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -19.412931780649686
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -23.064112843094374
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -26.2381726508194
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.88935371326409
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -33.54053477570878
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -36.5896558468255
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -40.240836909270186
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -42.98892798472293
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -46.64010904716761
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -50.2912901096123
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -53.94247117205698
+neg_count: 18
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.392789484309745
+total_neg_count: -2.392789484309745
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.0643325695723185
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.735875654834892
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.407418740097466
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -17.07896182536004
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -20.750504910622613
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.422047995885187
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -27.491531089819798
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -31.16307417508237
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -34.83461726034494
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -38.50616034560751
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -42.17770343087008
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -45.372125261413
+neg_count: 10
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6301504001043488
+total_neg_count: -48.002275661517345
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -51.673818746779915
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -55.345361832042485
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -59.016904917305055
+pos: -54.243501167720964
+neg: -59.31793491296904
+pos_count: 10
+pos_count_probab: -2.609788377286463
+total_pos_count: -2.609788377286463
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -5.26096943973115
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -8.912150502175837
+pos_count: 41
+pos_count_probab: -2.0279317720467875
+total_pos_count: -10.940082274222625
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -13.81311208628367
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -16.987171894008696
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -19.55917171040576
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -22.432201522466805
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -26.083382584911494
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -29.734563647356183
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -32.607593459417224
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -35.78165326714225
+pos_count: 17
+pos_count_probab: -2.395908557341382
+total_pos_count: -38.177561824483625
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -41.35162163220865
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -45.00280269465333
+pos_count: 41
+pos_count_probab: -2.0279317720467875
+total_pos_count: -47.03073446670012
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -50.20479427442514
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -2.8933918348789303
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -5.962874928813542
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -9.634418014076115
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -12.101841116682763
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -14.92828616193108
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -18.599829247193654
+neg_count: 10
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6301504001043488
+total_neg_count: -21.229979647298002
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -24.424401477840913
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -28.095944563103487
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -31.76748764836606
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -34.53594074663669
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -37.25324132245994
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -40.44766315300286
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -44.119206238265434
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -47.790749323528004
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -50.25817242613466
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -53.45259425667757
+neg_count: 10
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.6301504001043488
+total_neg_count: -56.08274465678192
+pos: -50.50582427008912
+neg: -56.3837746524459
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.825240870169713
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.4764219326144
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.127602995059089
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -17.176724066175815
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -20.35078387390084
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.00196493634553
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -27.65314599879022
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.304327061234908
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -34.47838686895993
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -37.17532542196529
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -40.34938522969031
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -44.000566292135
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.060386746348396
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -13.03295982727495
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -16.005532908201506
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.67707599346408
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -22.394376569287328
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -25.46385966322194
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -28.65828149376485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -31.85270332430776
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -34.922186418242376
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -37.69063951651301
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -41.36218260177559
+pos: -44.30159628779898
+neg: -41.66321259743957
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -2.806083022430431
+pos_count: 12
+pos_count_probab: -2.537237710137851
+total_pos_count: -5.343320732568282
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -8.517380540293306
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -11.390410352354351
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -15.04159141479904
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -18.090712485915766
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.264772293640792
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -2.972573080926555
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.644116166189129
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -9.236478005404077
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.430899835946988
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.102442921209562
+neg_count: 15
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.467423102606649
+total_neg_count: -18.56986602381621
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -21.63934911775082
+pos: -21.565802289304774
+neg: -21.940379113414803
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -7.302362124889376
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -9.99930067789474
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -13.048421749011464
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -16.22248155673649
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -7.343086170525147
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.537508001068058
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -13.73192983161097
+pos: -16.52351155240047
+neg: -14.03295982727495
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -3.0491210711167254
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.223180878841751
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.397240686566775
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -12.571300494291801
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.22248155673649
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.87366261918118
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -22.922783690297905
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -25.61972224330327
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -28.793782051028295
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -7.343086170525147
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -10.412569264459759
+neg_count: 21
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.3291204044403675
+total_neg_count: -12.741689668900126
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.4132327541627
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -20.084775839425273
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.756318924687847
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -27.42786200995042
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -30.32125384482935
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -33.515675675372265
+pos: -29.094812046692276
+neg: -33.816705671036246
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.825240870169713
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -9.999300677894738
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -11.969240502963839
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -15.620421565408527
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.271602627853216
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -22.445662435578242
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -25.318692247639287
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -28.969873310083976
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -32.143933117809
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -35.795114180253684
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.865964915805485
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.935448009740096
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -11.657601088357756
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -14.630174169284311
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -17.824595999827224
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -20.717987834706154
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -23.435288410529402
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -26.629710241072313
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -29.699193335006925
+pos: -36.096144175917665
+neg: -30.000223330670906
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -5.621120887513788
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -8.318059440519152
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -11.969240502963839
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -13.93918032803294
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -17.59036139047763
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.388843661085823
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.458326755020435
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.652748585563346
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.847170416106257
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -19.04159224664917
+pos: -17.89139138614161
+neg: -19.34262224231315
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 13
+pos_count_probab: -2.5050530267664497
+total_pos_count: -6.156234089211138
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -9.02926390127218
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -12.68044496371687
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -14.65038478878597
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -17.398475864238716
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.049656926683404
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -24.22371673440843
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -27.87489779685312
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -30.82710885496179
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -34.47828991740648
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -38.12947097985116
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -41.78065204229585
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -2.8264450452483167
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.020866875791228
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.215288706334139
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.40971053687705
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.604132367419961
+neg_count: 4
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.972573080926555
+total_neg_count: -18.576705448346516
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -21.771127278889427
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -24.965549109432338
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -27.858940944311268
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -30.685385989559585
+neg_count: 13
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.5254150495843355
+total_neg_count: -33.21080103914392
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -36.88234412440649
+pos: -42.08168203795983
+neg: -37.18337412007047
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -4.922150883177769
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -7.971271954294495
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -10.844301766355539
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.495482828800228
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -18.146663891244916
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -21.320723698969942
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.97190476141463
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -28.145964569139657
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -31.320024376864684
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -34.272235434973354
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -37.92341649741804
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -41.09747630514306
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -44.146597376259784
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -47.79777843870447
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -51.448959501149155
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -2.8933918348789303
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.087813665421842
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.282235495964754
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -12.953778581227327
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -16.02326167516194
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -19.09274476909655
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -22.287166599639463
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -25.481588430182374
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -28.551071524116985
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -31.745493354659896
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -34.93991518520281
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -38.61145827046538
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -41.80588010100829
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -45.000301931551206
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -48.671845016813776
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -52.34338810207635
+pos: -51.749989496813136
+neg: -52.64441809774033
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -7.302362124889376
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -10.953543187334063
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.604724249778751
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -18.25590531222344
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.90708637466813
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -24.382176178057136
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -27.25520599011818
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -30.90638705256287
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -34.557568115007555
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -37.50977917311622
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -40.46199023122489
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -3.0694830939346116
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -6.138966187869223
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.333388018412135
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.527809848955046
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.19935293421762
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -19.393774764760533
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -23.065317850023106
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -26.134800943957718
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -29.32922277450063
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -32.52364460504354
+pos: -40.76302022688887
+neg: -32.824674600707525
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.603392120553357
+pos_count: 9
+pos_count_probab: -2.651181062444688
+total_pos_count: -9.254573182998044
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -12.42863299072307
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -15.38084404883174
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -17.60066134711744
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -21.25184240956213
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -24.90302347200682
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -27.776053284067864
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -31.427234346512552
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -35.07841540895724
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -37.29823270724294
+pos_count: 17
+pos_count_probab: -2.395908557341382
+total_pos_count: -39.69414126458432
+pos_count: 17
+pos_count_probab: -2.395908557341382
+total_pos_count: -42.090049821925696
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -10.060386746348396
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.73192983161097
+neg_count: 34
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.127475040912298
+total_neg_count: -15.859404872523267
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.53094795778584
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -22.24824853360909
+neg_count: 7
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.7684530982706304
+total_neg_count: -25.01670163187972
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -28.688244717142293
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -32.35978780240487
+neg_count: 34
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.127475040912298
+total_neg_count: -34.48726284331717
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -37.07962468253212
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -40.149107776466735
+pos: -42.39107981758968
+neg: -40.45013777213072
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -2.952211058108669
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -5.172028356394369
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -7.744028172791433
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -10.696239230900101
+pos_count: 14
+pos_count_probab: -2.4750898033890065
+total_pos_count: -13.171329034289109
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -16.822510096733797
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -19.871631167850524
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -23.522812230295212
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -3.0694830939346116
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.263904924477523
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.333388018412135
+neg_count: 13
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.5254150495843355
+total_neg_count: -11.85880306799647
+neg_count: 14
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4954518262068923
+total_neg_count: -14.354254894203363
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -17.548676724746276
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -20.743098555289187
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -24.41464164055176
+pos: -23.823842225959194
+neg: -24.715671636215742
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 24
+pos_count_probab: -2.2532410537726504
+total_pos_count: -5.904422116217338
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -9.555603178662025
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -12.729662986387051
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -15.535746008817483
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.186927071262172
+pos_count: 8
+pos_count_probab: -2.696938553005363
+total_pos_count: -21.883865624267536
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -25.535046686712224
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -28.487257744820894
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -3.6715430852625737
+neg_count: 17
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.4162705801592677
+total_neg_count: -6.087813665421841
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.282235495964752
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -12.175627330843682
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -15.847170416106255
+neg_count: 11
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.592361839214949
+total_neg_count: -18.439532255321204
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -22.111075340583778
+neg_count: 13
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.5254150495843355
+total_neg_count: -24.636490390168113
+pos: -28.788287740484876
+neg: -24.937520385832094
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 15
+pos_count_probab: -2.447061079788763
+total_pos_count: -6.098242142233451
+pos_count: 4
+pos_count_probab: -2.952211058108669
+total_pos_count: -9.050453200342119
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -12.099574271458845
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -15.148695342575571
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -18.79987640502026
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -21.848997476136987
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -25.500178538581675
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -28.37320835064272
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -32.024389413087405
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -35.67557047553209
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -39.326751537976776
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -42.97793260042146
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.388843661085823
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.583265491628735
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -12.409710536877052
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -16.081253622139627
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -19.27567545268254
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -22.947218537945112
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -26.141640368488023
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -29.336062199030934
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -32.53048402957385
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -35.72490586011676
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -39.39644894537933
+pos: -43.27896259608544
+neg: -39.697478941043315
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -3.0491210711167254
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -6.700302133561413
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -8.670241958630514
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -11.719363029747239
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -15.370544092191928
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -19.021725154636616
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -21.241542452922317
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -23.81354226931938
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -26.987602077044407
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -30.638783139489096
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -34.289964201933785
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -36.25990402700288
+pos_count: 7
+pos_count_probab: -2.748091075452744
+total_pos_count: -39.007995102455624
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -42.65917616490031
+pos_count: 6
+pos_count_probab: -2.806083022430431
+total_pos_count: -45.46525918733074
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -48.63931899505576
+pos_count: 26
+pos_count_probab: -2.2198172982857005
+total_pos_count: -50.85913629334146
+pos_count: 11
+pos_count_probab: -2.571999816397063
+total_pos_count: -53.43113610973852
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -57.0823171721832
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -60.73349823462789
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -3.1944218305429115
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -6.865964915805485
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -9.935448009740096
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -13.60699109500267
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -16.67647418893728
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -19.745957282871892
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -22.815440376806503
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -26.486983462069077
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -29.556466556003688
+neg_count: 88
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -1.7221530786176609
+total_neg_count: -31.27861963462135
+neg_count: 8
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.717300575823249
+total_neg_count: -33.9959202104446
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -37.19034204098752
+neg_count: 5
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8933918348789303
+total_neg_count: -40.08373387586645
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -43.75527696112903
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -46.82476005506364
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -50.49630314032622
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -53.565786234260834
+pos: -61.03452823029187
+neg: -53.866816229924815
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -3.1740598077250253
+pos_count: 2
+pos_count_probab: -3.1740598077250253
+total_pos_count: -6.3481196154500505
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -9.221149427511094
+pos_count: 47
+pos_count_probab: -1.9699398250691007
+total_pos_count: -11.191089252580195
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -14.842270315024884
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -18.493451377469572
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -2.8264450452483167
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.020866875791228
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.215288706334139
+neg_count: 3
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.0694830939346116
+total_neg_count: -12.28477180026875
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -15.479193630811661
+neg_count: 0
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.6715430852625737
+total_neg_count: -19.150736716074235
+pos: -18.794481373133554
+neg: -19.451766711738216
+pos_count: 0
+pos_count_probab: -3.651181062444688
+total_pos_count: -3.651181062444688
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -6.524210874505732
+pos_count: 5
+pos_count_probab: -2.873029812061044
+total_pos_count: -9.397240686566775
+pos_count: 3
+pos_count_probab: -3.0491210711167254
+total_pos_count: -12.446361757683501
+neg_count: 6
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -2.8264450452483167
+total_neg_count: -2.8264450452483167
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -6.020866875791228
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -9.215288706334139
+neg_count: 2
+total neg words: 3222
+total vocab count: 1472
+neg_count_probab: -3.1944218305429115
+total_neg_count: -12.40971053687705
+pos: -12.747391753347483
+neg: -12.710740532541031

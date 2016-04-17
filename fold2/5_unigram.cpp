@@ -4,8 +4,8 @@ int main()
 {
     typedef map<string, int>::iterator it_type;
     ifstream f1;
-    char s1[17]="0/pos_train0.txt";
-    char s2[22]="0/pos_vocabulary0.txt";
+    char s1[25]="0/pos_train0.txt";
+    char s2[30]="0/pos_vocabulary0_unigram.txt";
     int i=-1;
     while(++i<10)
     {
@@ -16,7 +16,7 @@ int main()
         f1.open(s1);
         ofstream f2;
         f2.open(s2);
-        string s1,s2,s3,s4;
+        string s1,s2;
         vector <string> s;
         map <string,int> vocab;
         int match,length=s.size();
@@ -24,33 +24,25 @@ int main()
         while(getline(f1,s1,'\n'))
         {
             ss<<s1;
-            getline(ss,s2,' ');
-            getline(ss,s2,' ');
-            do
+            while(getline(ss,s2,' '))
             {
-                getline(ss,s3,' ');
-                if(s3==" " || s3=="\0")
-                    continue;
-                int s3len=s3.size();
-                s4=s2+","+s3;
-                s2=s3;
-                vocab[s4]++;
-            }while(s3!="</stop>");
+                int s2len=s2.size();
+                vocab[s2]++;
+            }
             ss.clear();
         }
         for(it_type iterator = vocab.begin(); iterator != vocab.end(); iterator++)
         {
-            if(iterator->second>1 && iterator->first!="-"&&iterator->first!="+"&&iterator->first!="")
+            if(iterator->second>1 && iterator->first!="-" && iterator->first!="+" && iterator->first!="" && iterator->first!="*" && iterator->first!="</stop>")
                 f2<<left<<setw(15)<<iterator->first<<" "<<iterator->second<<endl;
         }
         f1.close();
         f2.close();
 
     }
-   
 
     strcpy(s1,"0/neg_train0.txt");
-    strcpy(s2,"0/neg_vocabulary0.txt");
+    strcpy(s2,"0/neg_vocabulary0_unigram.txt");
     i=-1;
     while(++i<10)
     {
@@ -61,7 +53,7 @@ int main()
         f1.open(s1);
         ofstream f2;
         f2.open(s2);
-        string s1,s2,s3,s4;
+        string s1,s2;
         vector <string> s;
         map <string,int> vocab;
         int match,length=s.size();
@@ -69,18 +61,11 @@ int main()
         while(getline(f1,s1,'\n'))
         {
             ss<<s1;
-            getline(ss,s2,' ');
-            getline(ss,s2,' ');
-            do
+            while(getline(ss,s2,' '))
             {
-                getline(ss,s3,' ');
-                if(s3==" " || s3=="\0")
-                    continue;
-                int s3len=s3.size();
-                s4=s2+","+s3;
-                s2=s3;
-                vocab[s4]++;
-            }while(s3!="</stop>");
+                int s2len=s2.size();
+                vocab[s2]++;
+            }
             ss.clear();
         }
         for(it_type iterator = vocab.begin(); iterator != vocab.end(); iterator++)
@@ -93,7 +78,7 @@ int main()
 
     }
     strcpy(s1,"0/train0.txt");
-    strcpy(s2,"0/vocabulary0.txt");
+    strcpy(s2,"0/vocabulary0_unigram.txt");
     i=-1;
     while(++i<10)
     {
@@ -104,7 +89,7 @@ int main()
         f1.open(s1);
         ofstream f2;
         f2.open(s2);
-        string s1,s2,s3,s4;
+        string s1,s2;
         vector <string> s;
         map <string,int> vocab;
         int match,length=s.size();
@@ -112,17 +97,11 @@ int main()
         while(getline(f1,s1,'\n'))
         {
             ss<<s1;
-            getline(ss,s2,' ');
-            getline(ss,s2,' ');
-            do
+            while(getline(ss,s2,' '))
             {
-                getline(ss,s3,' ');
-                if(s3==" " || s3=="\0")
-                    continue;
-                s4=s2+","+s3;
-                s2=s3;
-                vocab[s4]++;
-            }while(s3!="</stop>");
+                int s2len=s2.size();
+                vocab[s2]++;
+            }
             ss.clear();
         }
         for(it_type iterator = vocab.begin(); iterator != vocab.end(); iterator++)

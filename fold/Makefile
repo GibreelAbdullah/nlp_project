@@ -30,7 +30,7 @@ run_super_doc: super_doc
 run_vocab: vocab
 	./vocab
 
-run_main: main.py
+run_main: main2.py
 	python3.4 $^
 
 run_accuracy: accuracy.py

@@ -23,8 +23,10 @@ int main()
 		s2[0]=i+'0';
 		f2.open(s1);
 		f3.open(s2);
+		string s3=" * ";
 		while(getline(f1,s))
 		{
+			//s.insert(1,s3);
 			if(s[0]=='+')
 			{
 				countpos++;
