@@ -7,6 +7,7 @@ Maintain Directory Structure
 
 -------------------------------------
 Directory "fold" is for unigram model
+
 Directory "fold2" is for bigram model
 -------------------------------------
 
@@ -22,9 +23,11 @@ For bigram model we have assumed that if bigram probability does not exist then 
 Result Location
 -------------------------------------
 for unigram : ./fold/readme.txt
+
 for bigram : ./fold2/readme.txt
 
 How to run
 -------------------------------------
 for unigram : navigate to 'fold' directory the run 'make'
+
 for bigram : navigate to 'fold2' directory the run 'make'
